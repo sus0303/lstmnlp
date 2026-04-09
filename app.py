@@ -150,7 +150,7 @@ with st.sidebar:
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
-st.markdown('<h1 class="main-title">Generador de Texto LSTM</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-title">Generador de Texto LSTMᝰ.ᐟ</h1>', unsafe_allow_html=True)
 st.markdown('<p class="subtitle">Redes Neuronales Recurrentes · Agentes de IA e Interfaces Multimodales</p>', unsafe_allow_html=True)
 st.markdown("---")
 
